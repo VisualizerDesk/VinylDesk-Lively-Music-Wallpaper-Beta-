@@ -1,5 +1,3 @@
-¡Arre! Si lo vas a publicar en GitHub, el inglés le da ese toque internacional y profesional que necesita tu proyecto de 35 KB. Aquí tienes la versión "fresona" y bien estructurada para tu README.md.
-
 💿 VinylDesk 🎧
 A high-performance, minimalist vinyl-style music visualizer for Lively Wallpaper.
 

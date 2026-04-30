@@ -14,10 +14,6 @@ VinylDesk is a glassmorphism-inspired interactive wallpaper designed for maximum
 
 🎧 Subtle Visualizer: A minimalist frequency bar design that breathes with the beat.
 
-📸 Preview
-
-<img width="1912" height="1054" alt="Captura de pantalla 2026-04-29 234051" src="https://github.com/user-attachments/assets/3d5b95b9-097a-409f-8431-7d714381623d" />
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 🚀 Installation
 ⚡ Easy Method (Recommended)
 Open Lively Wallpaper.
@@ -43,3 +39,6 @@ C:\Users\%USERNAME%\AppData\Local\Lively Wallpaper\Library\wallpapers
 
 📄 License
 This project is licensed under the MIT License.
+
+📸 Preview
+<img width="1912" height="1054" alt="Captura de pantalla 2026-04-29 234051" src="https://github.com/user-attachments/assets/3d5b95b9-097a-409f-8431-7d714381623d" />
